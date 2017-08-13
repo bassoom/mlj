@@ -6,11 +6,11 @@
         Feitas Odoo Dev """,
 
     'description': """
-        test sftp 2
+        Feitas
     """,
 
-    'author': "My Company",
-    'website': "http://www.yourcompany.com",
+    'author': "feitas",
+    'website': "http://www.wffeitas.com",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/master/odoo/addons/base/module/module_data.xml
